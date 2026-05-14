@@ -91,4 +91,4 @@ CLIMA_PIPELINE/
 
 **Lucas Zanella Clemente**  
 Estudante de Engenharia de Software — FIAP  
-[LinkedIn](https://www.linkedin.com/in/lucas-zanella-clemente) | [GitHub](https://github.com/LucasZanellaClemente)
+[LinkedIn](https://www.linkedin.com/in/lucas-zanella-777-dev/) | [GitHub](https://github.com/LucasZanellaClemente)
